@@ -1,7 +1,5 @@
-# farming-ecommerce
-A farming-focused e-commerce platform with loan, tax, and tool features.
 # Farming E-Commerce Platform 🌾
-
+A farming-focused e-commerce platform with loan, tax, and tool features.
 An online platform for farmers to buy/sell tools, access vehicle tax info, and check loan details.  
 Built with HTML, CSS, JavaScript and Firebase.
 
